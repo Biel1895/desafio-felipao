@@ -1,5 +1,5 @@
 let nickname = "El Ruivo"
-let XP = 10000
+let XP = 9999
 
     if(XP <= 1000){
         XP = "Ferro"
